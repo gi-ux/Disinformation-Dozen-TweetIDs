@@ -16,7 +16,7 @@ The structure of Tweet-IDs is as follows:
 - Tweets can be "hydrated" using [Hydrator](https://github.com/DocNow/hydrator). To do so, just access the Hydrator github repository linked [here](https://github.com/DocNow/hydrator) and follow the installation instructions in the README.
 
 # Data Usage Agreement
-This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: 
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following [paper](https://psvp28.files.wordpress.com/2022/04/understanding_misbehavior_in_covid19_s_discussion_of_osns-1.pdf): 
 
 Authors: 	*Gianluca Nogara, Padinjaredath Suresh Vishnuprasad, Felipe Cardoso, Omran Ayoub, Silvia Giordano, and Luca Luceri*
 
